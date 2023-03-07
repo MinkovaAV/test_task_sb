@@ -10,7 +10,7 @@ git checkout master
 git checkout branch-400
 
 
-**Какой командой нужно скачать все изменения из master?**
+**Какой командой нужно скачать все изменения из master?**  
 git pull
 
 
